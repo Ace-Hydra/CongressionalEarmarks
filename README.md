@@ -1,4 +1,4 @@
 # Congressional Earmarks Spending
-### The data was found here: https://bipartisanpolicy.org/blog/congressionally-directed-spending-fy2022-dataset/
+### Source: Bipartisan Policy Center https://bipartisanpolicy.org/blog/congressionally-directed-spending-fy2022-dataset/
 ### The data used in this project holds information on congressional earmark spending. It's columns include amount (how much was spent on that earmark), requestor_one_party (the party affiliation of the first person to request the earmark), agency (the agency that recieved the funds), state, more. These columns were then used to summarize and group the congressional earmark spending data. 
 ### Results: Transportation, Housing, and Urban Development is the agency that is given the most money in congressional earmarks by both parties, agencies that recieve Republican led earmarks in swing states are more varied than Democrat led ones (the most funded agency by Democrats in almost every swing state was Transportation, Housing, and Urban Development), and there is no impactful difference in earmark spending between Republicans and Democrats.
